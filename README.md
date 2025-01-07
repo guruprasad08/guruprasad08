@@ -1,6 +1,6 @@
 ### Hi there, I'm Guruprasad GP 👋
 
--If you want to buy something without looking at the price, you must be willing to work without looking at the time.
+- If you want to buy something without looking at the price, you must be willing to work without looking at the time.
 
 ## About Me
 I'm a passionate **Full-Stack Software Engineer** and an **Aspiring Backend Developer**. I love solving complex problems, exploring new technologies, and making impactful applications. 
@@ -20,11 +20,10 @@ I believe in **continuous learning** and always look for opportunities to grow a
 Exploring new technologies and frameworks to enhance my development skills.
 
 **🤝 Connect with Me:**
-- [LinkedIn](https://www.linkedin.com/in/guruprasadgp22/)  
-- [GitHub](https://github.com/guruprasad26gp)  
-- [Portfolio](https://guruprasad22.netlify.app/)
-- [Twitter](https://x.com/c23_gp/)
-
+- [LinkedIn](https://www.linkedin.com/in/guruprasadgp22/)  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)
+- [GitHub](https://github.com/guruprasad26gp)  ![GitHub](https://img.shields.io/badge/-GitHub-black)
+- [Portfolio](https://guruprasad22.netlify.app/)  ![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet)
+- [Twitter](https://x.com/c23_gp/)  ![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2)
 
 **✨ Fun Fact:** Every day is a chance to learn something new!
 
@@ -38,8 +37,3 @@ Exploring new technologies and frameworks to enhance my development skills.
 - 🛠️ I’m currently working on building full-stack web apps and exploring new technologies.
 - 🌱 Currently learning more about **Backend Development** and **Data Structures**.
 - 💬 Feel free to reach out if you have questions or just want to talk tech!
-
----
-
-##
-
