@@ -1,8 +1,15 @@
-### Hi there, I'm Guruprasad 👋
+### Hi there, I'm Guruprasad GP 👋
 
-**💻 Currently Learning:**
-- Full-Stack Development with **Java** and **Python**
-- Mobile App Development
+-If you want to buy something without looking at the price, you must be willing to work without looking at the time.
+
+## About Me
+I'm a passionate **Full-Stack Software Engineer** and an **Aspiring Backend Developer**. I love solving complex problems, exploring new technologies, and making impactful applications. 
+
+Currently, I’m focused on enhancing my skills in **Java**, **React**, **Python** and **SQL** while working on various projects to improve user experiences.
+
+I believe in **continuous learning** and always look for opportunities to grow and contribute to exciting and meaningful projects.
+
+---
 
 **🚀 Technical Skills:**
 - **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white), ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -16,8 +23,25 @@ Exploring new technologies and frameworks to enhance my development skills.
 - [LinkedIn](https://www.linkedin.com/in/guruprasadgp22/)  
 - [GitHub](https://github.com/guruprasad26gp)  
 - [Portfolio](https://guruprasad22.netlify.app/)
+- **Twitter**: [@guruprasad22](https://twitter.com/guruprasad22)
+- **Instagram**: [@guruprasad_22](https://instagram.com/guruprasad_22)
+- **Facebook**: [Guruprasad](https://www.facebook.com/guruprasad)
+
 
 **✨ Fun Fact:** Every day is a chance to learn something new!
 
 ---
 *Let's build something amazing together!* 🚀✨
+
+---
+
+## Personal Stuff:
+- 👨‍🎓 **Graduated in Computer Science and Engineering** from **Mangalore Institute of Technology and Engineering**.
+- 🛠️ I’m currently working on building full-stack web apps and exploring new technologies.
+- 🌱 Currently learning more about **Backend Development** and **Data Structures**.
+- 💬 Feel free to reach out if you have questions or just want to talk tech!
+
+---
+
+##
+
