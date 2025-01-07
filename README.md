@@ -23,9 +23,7 @@ Exploring new technologies and frameworks to enhance my development skills.
 - [LinkedIn](https://www.linkedin.com/in/guruprasadgp22/)  
 - [GitHub](https://github.com/guruprasad26gp)  
 - [Portfolio](https://guruprasad22.netlify.app/)
-- **Twitter**:(https://x.com/c23_gp/)
-- **Instagram**:(https://instagram.com/guruprasad_22)
-- **Facebook**:(https://www.facebook.com/guruprasad)
+- [Twitter](https://x.com/c23_gp/)
 
 
 **✨ Fun Fact:** Every day is a chance to learn something new!
