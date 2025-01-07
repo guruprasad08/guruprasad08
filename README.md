@@ -20,10 +20,10 @@ I believe in **continuous learning** and always look for opportunities to grow a
 Exploring new technologies and frameworks to enhance my development skills.
 
 **🤝 Connect with Me:**
-- [LinkedIn]()  ![[LinkedIn](https://www.linkedin.com/in/guruprasadgp22/)](https://img.shields.io/badge/-LinkedIn-blue)
-- [GitHub](https://github.com/guruprasad26gp)  ![GitHub](https://img.shields.io/badge/-GitHub-black)
-- [Portfolio](https://guruprasad22.netlify.app/)  ![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet)
-- [Twitter](https://x.com/c23_gp/)  ![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/guruprasadgp22/)
+- [![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/guruprasad26gp)
+- [![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet)](https://guruprasad22.netlify.app/)
+- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2)](https://x.com/c23_gp/)
 
 **✨ Fun Fact:** Every day is a chance to learn something new!
 
