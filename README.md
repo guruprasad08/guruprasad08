@@ -8,7 +8,7 @@
 
 | Followers | Repositories | Stars | Commits | Experience | Pull Requests | Issues | Reviews |
 |-----------|--------------|-------|---------|------------|---------------|--------|---------|
-| ![Followers](https://img.shields.io/github/followers/guruprasad26gp?style=for-the-badge) | ![Repos](https://img.shields.io/github/repositories/guruprasad26gp?style=for-the-badge) | ![Stars](https://img.shields.io/github/stars/guruprasad26gp?style=for-the-badge) | ![Commits](https://img.shields.io/github/commit-activity/y/guruprasad26gp?style=for-the-badge) | ![Experience](https://img.shields.io/badge/Experience-Junior%20Dev-informational?style=for-the-badge) | ![PRs](https://img.shields.io/github/issues-pr/guruprasad26gp?style=for-the-badge) | ![Issues](https://img.shields.io/github/issues/guruprasad26gp?style=for-the-badge) | ![Reviews](https://img.shields.io/github/reviews/guruprasad26gp?style=for-the-badge) |
+| ![Followers](https://img.shields.io/github/followers/guruprasad08?style=for-the-badge) | ![Repos](https://img.shields.io/github/repositories/guruprasad08?style=for-the-badge) | ![Stars](https://img.shields.io/github/stars/guruprasad08?style=for-the-badge) | ![Commits](https://img.shields.io/github/commit-activity/y/guruprasad08?style=for-the-badge) | ![Experience](https://img.shields.io/badge/Experience-Junior%20Dev-informational?style=for-the-badge) | ![PRs](https://img.shields.io/github/issues-pr/guruprasad08?style=for-the-badge) | ![Issues](https://img.shields.io/github/issues/guruprasad08?style=for-the-badge) | ![Reviews](https://img.shields.io/github/reviews/guruprasad08?style=for-the-badge) |
 
 
 ---
