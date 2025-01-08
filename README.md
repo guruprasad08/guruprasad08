@@ -4,15 +4,6 @@
 
 ---
 
-### 🌟 **GitHub Achievements**
-
-| Followers | Repositories | Stars | Commits | Experience | Pull Requests | Issues | Reviews |
-|-----------|--------------|-------|---------|------------|---------------|--------|---------|
-| ![Followers](https://img.shields.io/github/followers/guruprasad08?style=for-the-badge) | ![Repos](https://img.shields.io/github/repositories/guruprasad08?style=for-the-badge) | ![Experience](https://img.shields.io/github/commit-activity/y/guruprasad08?style=for-the-badge) | ![Experience](https://img.shields.io/badge/Experience-Junior%20Dev-informational?style=for-the-badge) | ![PRs](https://img.shields.io/github/issues-pr/guruprasad08?style=for-the-badge) | ![Issues](https://img.shields.io/github/issues/guruprasad08?style=for-the-badge) | ![Reviews](https://img.shields.io/github/reviews/guruprasad08?style=for-the-badge) |
-
-
----
-
 ### 📊 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guruprasad26gp&show_icons=true&theme=radical)  
