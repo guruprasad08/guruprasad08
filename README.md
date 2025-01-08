@@ -2,6 +2,18 @@
 
 - If you want to buy something without looking at the price, you must be willing to work without looking at the time.
 
+![Illustration](https://via.placeholder.com/400x300.png) <!-- Replace with your image link -->
+
+---
+
+### 🌟 **GitHub Achievements**
+
+| Followers | Repositories | Stars | Commits | Experience | Pull Requests | Issues | Reviews |
+|-----------|-------------|-------|---------|-----------|--------------|--------|---------|
+| 🏆 Active User **62pt** | 🛠️ Hyper Repo Creator **34pt** | 🌟 You are a Star **33pt** | 📊 High Committer **126pt** | 🧑‍💻 Junior Dev **9pt** | 🔄 First Pull **8pt** | ❓ Unknown **0pt** | ❓ Unknown **0pt** |
+
+---
+
 ## About Me
 I'm a passionate **Full-Stack Software Engineer** and an **Aspiring Backend Developer**. I love solving complex problems, exploring new technologies, and making impactful applications. 
 
