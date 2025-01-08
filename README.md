@@ -1,7 +1,7 @@
 ### Hi there, I'm Guruprasad GP 👋
 
-- If you want to buy something without looking at the price, you must be willing to work without looking at the time.
-
+- Do what you love, Love what you do...
+- If you want to buy something without looking at the price, you must work without looking at the time...
 ---
 
 ## About Me
