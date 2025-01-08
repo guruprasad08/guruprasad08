@@ -2,8 +2,6 @@
 
 - If you want to buy something without looking at the price, you must be willing to work without looking at the time.
 
-![Illustration]([https://pixabay.com/photos/red-matrix-matrix-matrix-code-5031496/]) <!-- Replace with your image URL -->
-
 ---
 
 ### 🌟 **GitHub Achievements**
