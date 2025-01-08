@@ -2,7 +2,7 @@
 
 - If you want to buy something without looking at the price, you must be willing to work without looking at the time.
 
-![Illustration](https://via.placeholder.com/400x300.png) <!-- Replace with your image link -->
+![Illustration](https://via.placeholder.com/400x300.png) <!-- Replace with your image URL -->
 
 ---
 
@@ -10,9 +10,17 @@
 
 | Followers | Repositories | Stars | Commits | Experience | Pull Requests | Issues | Reviews |
 |-----------|-------------|-------|---------|-----------|--------------|--------|---------|
-| 🏆 Active User **62pt** | 🛠️ Hyper Repo Creator **34pt** | 🌟 You are a Star **33pt** | 📊 High Committer **126pt** | 🧑‍💻 Junior Dev **9pt** | 🔄 First Pull **8pt** | ❓ Unknown **0pt** | ❓ Unknown **0pt** |
+| ![Followers](https://img.shields.io/github/followers/guruprasad26gp?style=for-the-badge) | ![Repos](https://img.shields.io/badge/Repos-Count-informational?style=for-the-badge&logo=github) | ![Stars](https://img.shields.io/github/stars/guruprasad26gp?style=for-the-badge) | ![Commits](https://img.shields.io/github/commit-activity/y/guruprasad26gp?style=for-the-badge) | ![Experience](https://img.shields.io/badge/Experience-Junior%20Dev-informational?style=for-the-badge) | ![PRs](https://img.shields.io/github/issues-pr/guruprasad26gp?style=for-the-badge) | ![Issues](https://img.shields.io/github/issues/guruprasad26gp?style=for-the-badge) | ![Reviews](https://img.shields.io/badge/Reviews-Count-informational?style=for-the-badge) |
 
 ---
+
+### 📊 **GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guruprasad26gp&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guruprasad26gp&layout=compact&theme=radical)  
+
+---
+
 
 ## About Me
 I'm a passionate **Full-Stack Software Engineer** and an **Aspiring Backend Developer**. I love solving complex problems, exploring new technologies, and making impactful applications. 
