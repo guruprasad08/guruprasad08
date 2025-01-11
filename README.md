@@ -1,6 +1,5 @@
 ### Hi there, I'm Guruprasad GP 👋
 
-
 - Do what you love, Love what you do...
 - If you want to buy something without looking at the price, you must work without looking at the time...
 ---
