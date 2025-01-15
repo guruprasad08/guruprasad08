@@ -1,5 +1,3 @@
----
-
 # 💫 About Me:
 🔭 I’m currently working on a Full Stack Web Development Projects.<br>👯 I’m looking to collaborate on full-stack web development projects.<br>🤝 I’m looking for help with advanced React and scalable backend architectures.<br>🌱 I’m currently learning Spring Boot and advanced JavaScript frameworks.<br>⚡ Fun fact: I’m passionate about solving coding challenges and always up for debugging!
 
