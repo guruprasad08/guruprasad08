@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on a Full Stack Web Development Projects.<br>👯 I’m looking to collaborate on full-stack web development projects.<br>🤝 I’m looking for help with advanced React and scalable backend architectures.<br>🌱 I’m currently learning Spring Boot and advanced JavaScript frameworks.<br>⚡ Fun fact: I’m passionate about solving coding challenges and always up for debugging!
 
+- Do what you love, Love what you do...
+- If you want to buy something without looking at the price, you must work without looking at the time...
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100026769294027) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guruprasad_gp___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guruprasadgp22) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@guruprasad22gp) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/c23_gp) 
