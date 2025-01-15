@@ -17,6 +17,7 @@ I believe in **continuous learning** and always look for opportunities to grow a
 ### 📊 **GitHub Stats**
 
 ![guruprasadgp22's Stats](https://github-readme-stats.vercel.app/api?username=guruprasadgp22&theme=merko&show_icons=true&hide_border=false&count_private=false)
+
 ![guruprasadgp22's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guruprasadgp22&theme=merko&show_icons=true&hide_border=false&layout=compact)
 
 ---
